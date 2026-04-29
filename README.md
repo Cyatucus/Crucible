@@ -1,2 +1,2 @@
 # Crucible
-CSE-528 Final Project
+This is my CSE-528 Final Project @UofL
